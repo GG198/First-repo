@@ -1,1 +1,2 @@
-Start learning git
+Start learning git.
+Welcom to programming world
